@@ -7,11 +7,11 @@
 ----
 * 使用Flow Layout建立一基本的視窗程式。
 
-![image](https://github.com/aiden00713/Java-AWT/blob/master/Layout/screenshot/1.png)
+![image](https://github.com/aiden00713/Java-AWT/blob/master/Layout/screenshot/1.PNG)
 
 * 使用Boder Layout建立一基本的視窗程式。
 
-![image](https://github.com/aiden00713/Java-AWT/blob/master/Layout/screenshot/2.png)
+![image](https://github.com/aiden00713/Java-AWT/blob/master/Layout/screenshot/2.PNG)
 
 * 使用Grid Layout建立一基本的視窗程式。
 
