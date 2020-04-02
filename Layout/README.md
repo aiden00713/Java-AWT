@@ -1,5 +1,4 @@
-# 銘傳電通系Java應用程式設計
-### Layout
+# 銘傳電通系Java應用程式設計 ### Layout
 ----
 * 使用Flow Layout建立一基本的視窗程式。
 
