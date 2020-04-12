@@ -9,7 +9,7 @@
 i. File -> New(Ctrl+N),分隔線,Open(Ctrl+O),Save(Ctrl+S),Save As…(Ctrl+A),分隔線,Exit(Ctrl+E)<p>
 ii. Edit-> Copy (Ctrl+C),Cut(Ctrl+X),Past(Ctrl+V)<p>
 iii. Draw-> Shape , Line(Ctrl+L),Pot(Ctrl+P)<br>
-Shape產生子選單|-->Circle(Ctrl+R),Rectangle(Ctrl+T)<p>
+Shape產生子選單->Circle(Ctrl+R)、Rectangle(Ctrl+T)<p>
 iv. Help->; Help(Ctrl+H)<p>
 v. 並請替每個MenuItem加上ActionListener, 點選時會顯示出點選的項目名稱
 
