@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-public class TextField_Listener extends java.awt.Frame implements KeyListener, MouseListener, MouseMotionListener, TextListener{
+public class TextField_Listener extends java.awt.Frame implements ActionListener, KeyListener, MouseListener, MouseMotionListener, TextListener{
 
   public static void main(String args[]){
     new TextField_Listener();
@@ -95,5 +95,10 @@ public class TextField_Listener extends java.awt.Frame implements KeyListener, M
   
   public void textValueChanged(TextEvent d) {
     System.out.println("文字欄位內容改變"); 
+  }
+  
+  public void actionPerformed(ActionEvent c) {
+    if (c.getSource().equals(this.textfield))
+      System.out.println("於文字欄位按下Enter鍵"); 
   }
 }
