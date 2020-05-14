@@ -26,6 +26,8 @@ FileDialog filedialog = new FileDialog(this, "Save File", FileDialog.SAVE);
 定義篩選條件: 副檔名為java
 Filter filter = new Filter("java"); 
 filedialog.setFilenameFilter(filter);
+
+資料夾內要包含Filter.class及CustomDialog.class這兩個檔案才能正常編譯。
 ```
 
 ![image](https://github.com/aiden00713/Java-AWT/blob/master/8_Dialog/screenshot/2-1.png)
