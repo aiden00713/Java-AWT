@@ -12,7 +12,7 @@ iii.對話盒3, 標題列為test3, 獨佔模式為 Toolkit Modal<br>
 iv.	對話盒4, 標題列為test4, 獨佔模式為 Modeless<br>
 
 ![image](https://github.com/aiden00713/Java-AWT/blob/master/8_Dialog/screenshot/1.png)
-
+----
 * 建立檔案對話盒,屬性設定如下<br>
 i.	建立選項清單,內容為 File ->  New, Open, 分隔線, Save, Save As…, 分隔線, Exit<br>
 ii.	點選 Open , Save會出現檔案對話盒,並且有Filename Filter的功能(只顯示副檔名為java的檔案) (windows下不會有效果,程式中有設定即可)<br>
