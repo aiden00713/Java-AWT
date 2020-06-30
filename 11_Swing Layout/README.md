@@ -11,7 +11,6 @@ ii. Button1 的水平對齊點為0.0f 垂直對齊點為0.5f,最小尺寸為100x
 iii.Button2 的水平對齊點為0.5f 垂直對齊點為0.0f,最小尺寸為100x100,最佳尺寸為200x200
 
 ![image](https://github.com/aiden00713/Java-AWT/blob/master/11_Swing%20Layout/screenshot/1.png)
-
 ----
 * 使用 Box Layout建立視窗應用程式<br>
 i.  建立兩個Button<br>
