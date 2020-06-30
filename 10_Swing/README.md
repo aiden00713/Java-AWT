@@ -10,7 +10,7 @@ i.  運用 JFrame與JPanel建立視窗應用程式<br>
 ii. 並於視窗中繪出字串  Hello MCU
 
 ![image](https://github.com/aiden00713/Java-AWT/blob/master/10_Swing/screenshot/1.png)
-
+----
 * 建立可動態調整介面的視窗應用程式<br>
 
 ```
