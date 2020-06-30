@@ -10,13 +10,13 @@ i.  滑鼠進入視窗時, 使用亂數,任意選擇繪出Line, 3DRect, Oval, Re
 ii. 滑鼠離開視窗時,則停止繪圖
 
 ![image](https://github.com/aiden00713/Java-AWT/blob/master/9_Draw/screenshot/1.png)
-
+----
 * 建立圖片繪製程式<br>
 i.  滑鼠於視窗內任意點Click一下,則在Click的地方將圖載入與繪出,圖片可自行找<br>
 ii. 例如在座標10,10 滑鼠click一下,就在座標10,10 將圖片載入繪出
 
 ![image](https://github.com/aiden00713/Java-AWT/blob/master/9_Draw/screenshot/2.png)
-
+----
 * 建立字串繪製程式<br>
 i.   範例程式中是將字串繪製於最上方,請改寫程式 將字串繪製於滑鼠的位置<br>
 ii.  例如滑鼠移到在座標10,10 ,就在座標10,10繪製字串<br>
