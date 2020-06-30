@@ -26,4 +26,4 @@ i.  建立5個JButton並具有圖示(icon)<br>
 ii. 第1個JButton的Spring.constant為10, x與y均是<br>
 iii.第2~5個JButton的位置為Spring.constant(20)+ SpringLayout.EAST與Spring.constant(20)+ SpringLayout.SOUTH
 
-![image](https://github.com/aiden00713/Java-AWT/blob/master/11_Swing%20Layout/screenshot/3.png
+![image](https://github.com/aiden00713/Java-AWT/blob/master/11_Swing%20Layout/screenshot/3.png)
